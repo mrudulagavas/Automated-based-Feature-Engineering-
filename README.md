@@ -7,8 +7,20 @@ BigFeat employs a dynamic feature generation and selection mechanism that constr
 Bigfeat takes the original input features and returns a collection of base and engineered features expected to improve the predictive performance.
 
 # Installation:
-  - **pip** : pip install bigfeat 
-  - **local installation**: pip install BigFeat/.
+  Clone the repository:
+```bash
+git clone https://github.com/mrudulagavas/Automated-based-Feature-Engineering-.git
+```
+
+Navigate to the project directory:
+```bash
+cd Automated-based-Feature-Engineering-
+```
+
+Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
 
 # Requirement:
   - 'pandas',
