@@ -23,10 +23,10 @@ pip install -r requirements.txt
 ```
 
 # Requirement:
-  - 'pandas',
-  - 'numpy',
-  - 'scikit-learn',
-  - 'lightgbm'
+  - pandas
+  - numpy
+  - scikit-learn
+  - lightgbm
   
 # Run BigFeat
 
