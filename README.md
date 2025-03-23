@@ -17,11 +17,16 @@ Navigate to the project directory:
 cd Automated-based-Feature-Engineering-
 ```
 
+Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
+OR
+
 Setup the project:
 ```bash
-pyhton setup.py
+python setup.py
 ```
-
 # Requirement:
   - pandas
   - numpy
