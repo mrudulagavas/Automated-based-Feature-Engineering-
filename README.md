@@ -17,9 +17,9 @@ Navigate to the project directory:
 cd Automated-based-Feature-Engineering-
 ```
 
-Install the required dependencies:
+Setup the project:
 ```bash
-pip install -r requirements.txt
+pyhton setup.py
 ```
 
 # Requirement:
